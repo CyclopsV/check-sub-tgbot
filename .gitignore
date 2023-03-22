@@ -1,0 +1,8 @@
+# IDE
+.vscode
+
+# configs
+config.json
+
+# bin
+*.exe
