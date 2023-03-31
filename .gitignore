@@ -2,7 +2,7 @@
 .vscode
 
 # configs
-config.json
+configs.json
 
 # bin
 *.exe
